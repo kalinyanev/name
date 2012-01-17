@@ -1,9 +1,6 @@
 <?php
-echo("1234");
-echo("5678");
-echo("5678");
-echo("567822");
-echo("56782ss2");
+echo("000");
+
 class A
 {
 	public function execute($var)
