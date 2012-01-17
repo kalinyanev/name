@@ -1,6 +1,6 @@
 <?php
 echo("1234");
-
+echo("5678");
 class A
 {
 	public function execute($var)
