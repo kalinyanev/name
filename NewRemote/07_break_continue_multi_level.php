@@ -1,4 +1,6 @@
 <?php
+echo("fsfs");
+
 $i=0;
 while(++$i)
 {
