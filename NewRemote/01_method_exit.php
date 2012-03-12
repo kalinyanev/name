@@ -1,5 +1,6 @@
 <?php
-echo "dasda";
+echo "dasda1";
+echo "dasda2";
 echo("000");
 
 class A
