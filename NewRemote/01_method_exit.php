@@ -3,6 +3,7 @@ echo "dasda1";
 echo "dasda2";
 echo "dasda3";
 echo "dasda4";
+echo "dasda5";
 echo("000");
 
 class A
