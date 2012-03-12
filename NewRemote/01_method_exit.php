@@ -1,4 +1,5 @@
 <?php
+echo "dasda";
 echo("000");
 
 class A
