@@ -15,4 +15,4 @@ class A
 			return 1;
 	}
 }
-?>
+?>	
