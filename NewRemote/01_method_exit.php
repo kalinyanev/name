@@ -1,12 +1,9 @@
 <?php
-echo "dasda1";
-echo "dasda2";
-echo "dasda3";
-echo "dasda4";
-echo "dasda5";
-echo "dasda6";
-echo("000");
-
+class class_name {
+	function function_name() {
+		;
+	}
+}
 class A
 {
 	public function execute($var)
