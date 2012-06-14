@@ -1,9 +1,4 @@
 <?php
-class class_name {
-	function function_name() {
-		;
-	}
-}
 class A
 {
 	public function execute($var)
