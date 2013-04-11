@@ -1,4 +1,6 @@
 <?php
+echo("kalin_Studio 10_0.1_669");
+
 class A
 {
 	public function execute($var)
