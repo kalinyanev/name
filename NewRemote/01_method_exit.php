@@ -1,5 +1,5 @@
 <?php
-echo("kalin_Studio 10.1.0 #708");
+echo("kalin_Studio 10.1.0 #708 AAAAd");
 
 class A
 {
