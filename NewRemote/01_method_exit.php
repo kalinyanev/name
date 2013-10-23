@@ -1,5 +1,5 @@
 <?php
-echo("1111kalin_Studio 10.1.0 #708 AAAAd");
+echo("Studio 10.5, this is build 58");
 
 class A
 {
