@@ -1,3 +1,4 @@
+applicationURL=http\://ilina3010.my.phpcloud.com/name
 eclipse.preferences.version=1
-targetHost=http\://localhost\:10081
-targetId=0
+targetHost=https\://ilina3010.my.phpcloud.com\:10082
+targetId=3_0
