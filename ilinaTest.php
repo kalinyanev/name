@@ -1,6 +1,6 @@
 <?php
 class IlinaTest{
 	function function_name($param) {
-		echo "sth";
+		echo "sth1";
 	}
 }
