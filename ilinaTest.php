@@ -1,5 +1,5 @@
 <?php
-echo("1234");
+echo("1234GH");
 
 class IlinaTest{
 	function function_name($param) {
