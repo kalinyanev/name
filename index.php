@@ -1,4 +1,4 @@
 <?php
-echo "success No1 try2";
+echo "Studio 11, build 244";
 $a = new IlinaTest();
 $a->function_name('Ilina');
